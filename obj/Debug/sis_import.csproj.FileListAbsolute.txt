@@ -1,0 +1,5 @@
+/Users/maziar/Desktop/dev/sis_import/sis_import/bin/Debug/sis_import.exe
+/Users/maziar/Desktop/dev/sis_import/sis_import/bin/Debug/sis_import.pdb
+/Users/maziar/Desktop/dev/sis_import/sis_import/obj/Debug/sis_import.csproj.CoreCompileInputs.cache
+/Users/maziar/Desktop/dev/sis_import/sis_import/obj/Debug/sis_import.exe
+/Users/maziar/Desktop/dev/sis_import/sis_import/obj/Debug/sis_import.pdb
